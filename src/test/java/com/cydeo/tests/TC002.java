@@ -1,6 +1,4 @@
 package com.cydeo.tests;
 
-public class TC001 {
-
-
+public class TC002 {
 }
